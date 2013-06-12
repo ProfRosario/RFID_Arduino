@@ -1,8 +1,9 @@
 RFID_Arduino
 ============
 
-The goal of this project is read the Parallax RFID serial data and store the data to EEPROM without the need of the Arduino IDE once the firmware has been loaded. The Arduino library should be able to read serial data,
-add master and user tags to memory and delete all stored tags in memory. 
+The goal of this project is read the Parallax RFID serial data and store the data to EEPROM without the need of 
+the Arduino IDE once the firmware has been loaded. The Arduino library should be able to read serial data,add master 
+and user tags to memory and delete all stored tags in memory. 
 
 Test Environment
 ================

@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For debug_lvc
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+RFID	KEYWORD1
+rfid	KEYWORD1
+RFID_Reader KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clearBuffer	KEYWORD2
+printTag	KEYWORD2
+enableRFIDReader	KEYWORD2
+disableRFIDReader	KEYWORD2
+readRFIDTag	KEYWORD2
+enableRelay	KEYWORD2
+beep	KEYWORD2
+isTagValid	KEYWORD2
+programMasterTag	KEYWORD2
+addNewTag	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+########################################
+
+START_BYTE	LITERAL1
+#define STOP_BYTE	LITERAL1
+#define MAX_TAG_SIZE	LITERAL1
+#define MAX_DATA_SIZE	LITERAL1
